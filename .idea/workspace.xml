@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5e548c8f-7849-4db9-9ef8-d4a182d863cc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1uzBshWtKfpohSrkoY89uS4pme5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e548c8f-7849-4db9-9ef8-d4a182d863cc" name="Default Changelist" comment="" />
+      <created>1625658745713</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625658745713</updated>
+      <workItem from="1625658747309" duration="17000" />
+      <workItem from="1625658813023" duration="733000" />
+      <workItem from="1625659616425" duration="6424000" />
+      <workItem from="1625728565598" duration="111000" />
+      <workItem from="1625740304869" duration="10165000" />
+      <workItem from="1625828624736" duration="5040000" />
+      <workItem from="1625834428856" duration="39000" />
+      <workItem from="1626091863365" duration="9000" />
+      <workItem from="1626092039583" duration="1558000" />
+      <workItem from="1626177396335" duration="2373000" />
+      <workItem from="1626263119320" duration="5302000" />
+      <workItem from="1626347154263" duration="3838000" />
+      <workItem from="1626696437387" duration="577000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="295" y="128" width="426" height="480" key="FileChooserDialogImpl" timestamp="1626697012453">
+      <screen x="0" y="0" width="1024" height="741" />
+    </state>
+    <state x="295" y="128" width="426" height="480" key="FileChooserDialogImpl/0.0.1024.741@0.0.1024.741" timestamp="1626697012453" />
+    <state x="332" y="296" width="351" height="148" key="NewPhpFileDialog" timestamp="1626265640522">
+      <screen x="0" y="0" width="1024" height="741" />
+    </state>
+    <state x="332" y="296" width="351" height="148" key="NewPhpFileDialog/0.0.1024.741@0.0.1024.741" timestamp="1626265640522" />
+    <state x="205" y="198" key="com.intellij.ide.util.TipDialog" timestamp="1625728604841">
+      <screen x="0" y="0" width="1024" height="741" />
+    </state>
+    <state x="205" y="198" key="com.intellij.ide.util.TipDialog/0.0.1024.741@0.0.1024.741" timestamp="1625728604841" />
+    <state x="175" y="62" width="672" height="678" key="search.everywhere.popup" timestamp="1626264437108">
+      <screen x="0" y="0" width="1024" height="741" />
+    </state>
+    <state x="175" y="62" width="672" height="678" key="search.everywhere.popup/0.0.1024.741@0.0.1024.741" timestamp="1626264437108" />
+  </component>
+</project>

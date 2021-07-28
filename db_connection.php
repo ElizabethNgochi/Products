@@ -1,0 +1,14 @@
+<?php
+$host="localhost";
+$user="root";
+$password="";
+$database="Products";
+
+$connection=mysqli_connect($host, $user, $password, $database);
+
+//Check if connection failed
+if (!isset($connection)){
+    die("Connection failed");
+}
+
+
